@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yastamardika/AndroidStudioProjects/WalkMyAndroid-Starter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/yastamardika/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de9ea3b33064bbbd13d0f557893a3749/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/yastamardika/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/98a62dd76e8996dcd053f47710de7f39/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
